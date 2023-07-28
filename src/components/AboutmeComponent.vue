@@ -1,7 +1,7 @@
 <template >
  <center>
     <h1 class="selamatdatang pt-16 pl-15">
-             Tentang Saya
+             Tentang Saput
             </h1>
  </center>
  <br>
